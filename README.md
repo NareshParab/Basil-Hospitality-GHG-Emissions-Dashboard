@@ -42,5 +42,4 @@ Download the file and open it in Microsoft Power BI Desktop to explore the repor
 
 This project is part of my analytics portfolio, showcasing practical Power BI and sustainability-data reporting skills.
 
-## Data Confidentiality
-The dashboard and its underlying data should only be shared publicly with appropriate authorization. Remove confidential client information before publishing.
+
